@@ -1,0 +1,3 @@
+git config  --list
+
+touch file.txt -----------------to create a file
